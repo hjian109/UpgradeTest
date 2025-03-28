@@ -1,0 +1,50 @@
+<android>
+<!-- 稳定版 -->
+<stable>
+<!-- date：更新日期 -->
+<date>2018-02-09</date>
+<!-- mode：更新模式 1普通 2强制 -->
+<mode>2</mode>
+<!-- log：更新说明 -->
+<log>
+<item>#升级模式支持普通升级、强制升级、灰度升级</item>
+<item>#下载支持断点续传、分流下载、动态网络监听下载</item>
+<item>#安装支持自动安装申请sd卡和安装权限、自动安装重启（root权限）、自动清除安装包</item>
+<item>#支持通知栏显示和对话框显示（自定义主题）</item>
+<item>#支持自定义对话框</item>
+<item>#支持android 4.2以上设备</item>
+</log>
+<!-- versionCode：新版App版本号 -->
+<versionCode>20241228</versionCode>
+<!-- versionCode：新版App版本名称 -->
+<versionName>HNGD_20241228</versionName>
+<!-- downloadUrl：新版App下载链接 -->
+<downloadUrl>https://gitee.com/hjian1943/android-upgrade/raw/master/doc/update-test.zip </downloadUrl>
+<!-- md5：新版App安装包完整性 -->
+<md5/>
+</stable>
+<!-- 测试版 -->
+<beta>
+<!-- device：测试版设备序列号 -->
+<device>
+<sn>1234567890abcdefghcc</sn>
+</device>
+<!-- date：更新日期 -->
+<date>2018-02-09</date>
+<!-- mode：更新模式 1普通 2强制 -->
+<mode>1</mode>
+<!-- log：更新说明 -->
+<log>
+<item>检测到新版本：</item>
+<item> 内侧版本</item>
+</log>
+<!-- versionCode：新版App版本号 -->
+<versionCode>20241222</versionCode>
+<!-- versionCode：新版App版本名称 -->
+<versionName>HNGD_20241222</versionName>
+<!-- downloadUrl：新版App下载链接 -->
+<downloadUrl>https://gitee.com/hjian1943/android-upgrade/raw/master/doc/update-test.zip </downloadUrl>
+<!-- md5：新版App安装包完整性 -->
+<md5/>
+</beta>
+</android>
