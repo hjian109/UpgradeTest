@@ -19,7 +19,7 @@
 <!-- versionCode：新版App版本名称 -->
 <versionName>HNGD_20241228</versionName>
 <!-- downloadUrl：新版App下载链接 -->
-<downloadUrl>https://gitee.com/hjian1943/android-upgrade/raw/master/doc/update-test.zip </downloadUrl>
+<downloadUrl>https://raw.githubusercontent.com/hjian109/UpgradeTest/refs/heads/main/test/update-test.zip</downloadUrl>
 <!-- md5：新版App安装包完整性 -->
 <md5/>
 </stable>
@@ -43,7 +43,7 @@
 <!-- versionCode：新版App版本名称 -->
 <versionName>HNGD_20241222</versionName>
 <!-- downloadUrl：新版App下载链接 -->
-<downloadUrl>https://gitee.com/hjian1943/android-upgrade/raw/master/doc/update-test.zip </downloadUrl>
+<downloadUrl>https://raw.githubusercontent.com/hjian109/UpgradeTest/refs/heads/main/test/update-test.zip</downloadUrl>
 <!-- md5：新版App安装包完整性 -->
 <md5/>
 </beta>
